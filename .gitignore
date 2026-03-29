@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
+dist/
+build/
+*.egg-info/
+.DS_Store
+*.log
+data/satellite/*.jpg
+data/*.csv
+data/*.json
+logs/
+frontend-react/node_modules/
+frontend-react/dist/
